@@ -1,2 +1,3 @@
 def some_func(x: int, y: int):
-    pass
+    if x > y:
+        print("x is more that y")
