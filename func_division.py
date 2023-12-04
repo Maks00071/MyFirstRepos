@@ -1,3 +1,4 @@
 # функция деления
 def division_func(x: int, y: int):
-    pass
+    if y != 0:
+        return x / y
