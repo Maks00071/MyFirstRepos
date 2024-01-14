@@ -1,2 +1,4 @@
 def foo_test(a: str):
-    print(f'Hello {a}')
+    # To change from branch master
+    if a == 0:
+        print(f'The number {a} is Zero')
