@@ -6,4 +6,4 @@ def some_func(x: int, y: int):
     else:
         print("x is less that y")
 
-    print(some_func(5, 7))
+print(some_func(5, 7))
