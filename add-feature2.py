@@ -1,2 +1,2 @@
 def foo_test(a: str):
-    pass
+    print(f'Hello {a}')
